@@ -1,0 +1,19 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gms08/node-weather.git"
+  },
+  "author": "Greg Sousa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gms08/node-weather/issues"
+  },
+  "homepage": "https://github.com/gms08/node-weather#readme"
+}
